@@ -14,7 +14,7 @@
 
 
 <div class="tech-icons" style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 20px; justify-content: space-between;">
-  <img href = "#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" class="tech-icon" />
+  <img href = "#"  height="30" alt="JavaScript logo" class="tech-icon" />
   <img href = "#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="Ruby on Rails logo" class="tech-icon" />
   <img href = "#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" class="tech-icon" />
   <img href = "#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" class="tech-icon" />
@@ -24,9 +24,6 @@
 
 <!-- Social Media -->
 <div align="left" style="margin-top: 20px;">
-  <a href="mailto:mathewnewton1994@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
   <a href="https://www.linkedin.com/in/mathew-newton1" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
