@@ -8,7 +8,6 @@
   </p>
   <div style="display: flex; align-items: center; gap: 15px; margin-top: 20px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxrkZYHDAxk2Smzb4Ky-BPHCXEVSsgMxAaiQZH0fUxcpenYXYLirl4KPMX_RUb39H4Q&usqp=CAU" height="40" alt="Le Wagon logo" style="border-radius: 50%;" />
-    <img src="https://www.google.com/imgres?q=orbiter%20finance%20logo&imgurl=https%3A%2F%2Frankfi.com%2Fwp-content%2Fuploads%2F2024%2F01%2FOrbiter-Finance-Logo-1.png&imgrefurl=https%3A%2F%2Frankfi.com%2Fhow-to-bridge-to-base%2F&docid=YaKous-DKiYtvM&tbnid=7Jd1orsxTvxt-M&vet=12ahUKEwjB09ib1qGIAxX39LsIHfHPPIQQM3oECG8QAA..i&w=393&h=128&hcb=2&ved=2ahUKEwjB09ib1qGIAxX39LsIHfHPPIQQM3oECG8QAA">
   </div>
 </div>
 
