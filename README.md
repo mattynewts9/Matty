@@ -11,13 +11,6 @@
   <p align="left" style="color: #555; line-height: 1.6;">
     My recent experiences include volunteering with <a href="https://www.orbiter.finance" target="_blank" style="text-decoration: none; color: #007bff;">Orbiter Finance</a> in the Web 3 space, where I networked with industry leaders, attended blockchain events, and collaborated on innovative projects. I have a growing skill set in JavaScript, Ruby on Rails, HTML5, CSS3, Vue.js, and PostgreSQL. I'm constantly learning and adapting to new technologies to create impactful solutions. Feel free to explore my repositories and connect with me!
   </p>
-  
-
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattynewts9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 
 <div class="tech-icons" style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 20px; justify-content: space-between;">
