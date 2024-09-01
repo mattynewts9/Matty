@@ -8,8 +8,7 @@
     My recent experiences include volunteering with <a href="https://www.orbiter.finance" target="_blank" style="text-decoration: none; color: #007bff;">Orbiter Finance</a> in the Web 3 space, where I networked with industry leaders, attended blockchain events, and collaborated on innovative projects. I have a growing skill set in JavaScript, Ruby on Rails, HTML5, CSS3, Vue.js, and PostgreSQL. I'm constantly learning and adapting to new technologies to create impactful solutions. Feel free to explore my repositories and connect with me!
   </p>
   <div style="display: flex; align-items: center; gap: 15px; margin-top: 20px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxrkZYHDAxk2Smzb4Ky-BPHCXEVSsgMxAaiQZH0fUxcpenYXYLirl4KPMX_RUb39H4Q&usqp=CAU" height="40" alt="Le Wagon logo" style="border-radius: 50%;" />
-    <img src="https://www.orbiter.finance/orbiter-logo.svg" height="40" alt="Orbiter Finance logo" style="border-radius: 50%;" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxrkZYHDAxk2Smzb4Ky-BPHCXEVSsgMxAaiQZH0fUxcpenYXYLirl4KPMX_RUb39H4Q&usqp=CAU" height="40" alt="Le Wagon logo" style="border-radius: 50%;"/>
   </div>
 </div>
 
@@ -38,7 +37,7 @@
   <a href="mailto:mathewnewton1994@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/mathewnewton" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/mathew-newton1" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
