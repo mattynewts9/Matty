@@ -22,7 +22,7 @@
 <!-- Fun GIF -->
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<div class="tech-icons" style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; justify-content: space-between;">
+<div class="tech-icons" style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; margin-right: 10px; justify-content: space-between;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" class="tech-icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="Ruby on Rails logo" class="tech-icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" class="tech-icon" />
