@@ -12,15 +12,16 @@
     My recent experiences include volunteering with <a href="https://www.orbiter.finance" target="_blank" style="text-decoration: none; color: #007bff;">Orbiter Finance</a> in the Web 3 space, where I networked with industry leaders, attended blockchain events, and collaborated on innovative projects. I have a growing skill set in JavaScript, Ruby on Rails, HTML5, CSS3, Vue.js, and PostgreSQL. I'm constantly learning and adapting to new technologies to create impactful solutions. Feel free to explore my repositories and connect with me!
   </p>
 
-
-<div class="tech-icons" style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 20px; justify-content: space-between;">
-  <img href = "#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" class="tech-icon" />
-  <img href = "#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="Ruby on Rails logo" class="tech-icon" />
-  <img href = "#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" class="tech-icon" />
-  <img href = "#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" class="tech-icon" />
-  <img href = "#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js logo" class="tech-icon" />
-  <img href = "#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" class="tech-icon" />
-</div>
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf9" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
 
 <!-- Social Media -->
 <div align="left" style="margin-top: 20px;">
