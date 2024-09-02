@@ -1,6 +1,11 @@
 # Hi, I'm Mathew Newton! 👋
 I’m a passionate web developer with experience in both traditional and Web 3 technologies. I’m enthusiastic about learning new skills, collaborating with other tech enthusiasts, and building impactful web applications.
 <hr>
+
+🎓 Current Studies
+
+I am currently studying at [Le Wagon’s Web Development Bootcamp](https://www.lewagon.com), where I’m advancing my skills in modern web technologies and development practices. This intensive program is equipping me with hands-on experience and practical knowledge to excel in the tech industry.
+
 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I'm proficient with:
