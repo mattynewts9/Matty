@@ -1,5 +1,4 @@
 # Hi, I'm Mathew Newton! 👋
-<hr>
 I’m a passionate web developer with experience in both traditional and Web 3 technologies. I’m enthusiastic about learning new skills, collaborating with other tech enthusiasts, and building impactful web applications.
 <hr>
 ## 🛠️ Technologies & Tools
