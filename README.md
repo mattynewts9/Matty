@@ -4,7 +4,7 @@
   <p align="left" style="color: #555; line-height: 1.6;">
     I’m passionate about building dynamic and user-centric web applications. With a background in technical roles and client relations, I've honed my problem-solving and project management skills, which I now apply to web development. I am currently a student at <a href="https://www.lewagon.com" target="_blank" style="text-decoration: none; color: #007bff;">Le Wagon's Web Development Bootcamp</a>, where I am deepening my expertise in modern web technologies.
     <div style="display: flex; align-items: center; gap: 15px; margin-top: 20px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxrkZYHDAxk2Smzb4Ky-BPHCXEVSsgMxAaiQZH0fUxcpenYXYLirl4KPMX_RUb39H4Q&usqp=CAU" height="40" alt="Le Wagon logo" style="border-radius: 50%;"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxrkZYHDAxk2Smzb4Ky-BPHCXEVSsgMxAaiQZH0fUxcpenYXYLirl4KPMX_RUb39H4Q&usqp=CAU" height="40" alt="Le Wagon logo" style="border-radius: 60%;"/>
   </div>
 </div>
   </p>
