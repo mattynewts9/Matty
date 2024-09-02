@@ -2,7 +2,7 @@
 
 **`Web Developer (Exploring Web Technologies with Enthusiasm and Precision)`**
 
-I’m a passionate web developer with experience in both traditional and Web 3 technologies. I’m enthusiastic about learning new skills, collaborating with other tech enthusiasts, and building impactful web applications. Also am a current learner of Mandarin chinese where i have reached HSK3 profiency.
+I’m a passionate web developer with experience in both traditional and Web 3 technologies. I’m enthusiastic about learning new skills, collaborating with other tech enthusiasts, and building impactful web applications. Also am a current learner of Mandarin chinese where I have reached HSK3 profiency.
 <hr>
 
 🌐 Web 3 Experience
