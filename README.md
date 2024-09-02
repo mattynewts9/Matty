@@ -6,12 +6,12 @@ I’m a passionate web developer with experience in both traditional and Web 3 t
 
 Here are some of the technologies and tools I'm proficient with:
 
-- **Ruby**: ![Ruby](https://img.shields.io/badge/-Ruby-%23CC342D?logo=ruby&logoColor=white)
-- **CSS**: ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3&logoColor=white)
-- **Git**: ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white)
-- **Ruby on Rails**: ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-%23CC0000?logo=ruby&logoColor=white)
-- **HTML**: ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white)
-- **Vue.js**: ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?logo=vue.js&logoColor=white)
+- ![Ruby](https://img.shields.io/badge/-Ruby-%23CC342D?logo=ruby&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white)
+- ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-%23CC0000?logo=ruby&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?logo=vue.js&logoColor=white)
 
 ## 🌐 Web 3 Experience
 
