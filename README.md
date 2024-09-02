@@ -14,7 +14,7 @@ I recently contributed to **Orbiter Finance**, a decentralized Layer 2 bridge fo
 
 I am currently studying at [Le Wagon’s Web Development Bootcamp](https://www.lewagon.com), where I’m advancing my skills in modern web technologies and development practices. This intensive program is equipping me with hands-on experience and practical knowledge to excel in the tech industry.
 
-🛠️ Technologies & Tools
+🛠️ Languages & Tools
 
 Here are some of the technologies and tools I'm proficient with:
 
