@@ -16,11 +16,11 @@ Here are some of the technologies and tools I'm proficient with:
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-%23CC0000?logo=ruby&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?logo=vue.js&logoColor=white)
-<hr>
+<hr border: 1px solid #cccccc;>
 🌐 Web 3 Experience
 
 I recently contributed to **Orbiter Finance**, a decentralized Layer 2 bridge for Ethereum. My role involved networking with Web 3 companies, attending blockchain events, and collaborating on impactful solutions. This experience enhanced my skills in modern web technologies and deepened my understanding of the evolving Web 3 space.
-<hr>
+<hr border: 1px solid #cccccc;>
 📫 Get in Touch
 
 Feel free to reach out if you want to connect or discuss new opportunities:
