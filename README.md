@@ -24,7 +24,7 @@ Here are some of the technologies and tools I'm proficient with:
 
 Feel free to reach out if you want to connect or discuss new opportunities:
 
-  <a href="https://www.linkedin.com/in/mathew-newton1" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/mathew-newton1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="mailto:mathewnewton1994@gmail.com" target="_blank" rel="noopener noreferrer">
