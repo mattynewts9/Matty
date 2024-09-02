@@ -1,4 +1,5 @@
-# Hi, I'm Mathew Newton! 👋
+# 🌱 Mathew Newton!
+
 I’m a passionate web developer with experience in both traditional and Web 3 technologies. I’m enthusiastic about learning new skills, collaborating with other tech enthusiasts, and building impactful web applications. Also am a current learner of Mandarin chinese and love playing and watching football! ⚽
 <hr>
 
