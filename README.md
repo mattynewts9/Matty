@@ -1,21 +1,29 @@
-<!-- Profile Header -->
-<div style="background: linear-gradient(135deg, #1F57A0, #c3cfe2); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 20px 0;">
-  <h2 align="left" color:  >Mathew Newton</h2> 
-  <p align="left" style="color: line-height: 1.6;">
-   I’m passionate about building dynamic and user-centric web applications. With a background in technical roles and client relations, I've honed my problem-solving and project management skills, which I now apply to web development. I am currently a student at <a href="https://www.lewagon.com" target="_blank" style="text-decoration: none; color: #007bff;">Le Wagon's Web Development Bootcamp</a>, where I am deepening my expertise in modern web technologies.
-    <div style="display: flex; align-items: center; gap: 15px; margin-top: 20px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxrkZYHDAxk2Smzb4Ky-BPHCXEVSsgMxAaiQZH0fUxcpenYXYLirl4KPMX_RUb39H4Q&usqp=CAU" height="40" alt="Le Wagon logo" style="border-radius: 60%;"/>
-  </div>
-</div>
-<hr>
-  </p>
-  <p align="left" style="color: #555; line-height: 1.6;">
-    My recent experiences include volunteering with <a href="https://www.orbiter.finance" target="_blank" style="text-decoration: none; color: #007bff;">Orbiter Finance</a> in the Web 3 space, where I networked with industry leaders, attended blockchain events, and collaborated on innovative projects. I have a growing skill set in JavaScript, Ruby on Rails, HTML5, CSS3, Vue.js, and PostgreSQL. I'm constantly learning and adapting to new technologies to create impactful solutions. Feel free to explore my repositories and connect with me!
-  </p>
+# Hi, I'm Mathew Newton! 👋
 
-<!-- Social Media -->
-<div align="left" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/mathew-newton1" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+I’m a passionate web developer with experience in both traditional and Web 3 technologies. I’m enthusiastic about learning new skills, collaborating with other tech enthusiasts, and building impactful web applications.
+
+## 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I'm proficient with:
+
+- **Ruby**: ![Ruby](https://img.shields.io/badge/-Ruby-%23CC342D?logo=ruby&logoColor=white)
+- **CSS**: ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3&logoColor=white)
+- **Git**: ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white)
+- **Ruby on Rails**: ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-%23CC0000?logo=ruby&logoColor=white)
+- **HTML**: ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white)
+- **Vue.js**: ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?logo=vue.js&logoColor=white)
+
+## 🌐 Web 3 Experience
+
+I recently contributed to **Orbiter Finance**, a decentralized Layer 2 bridge for Ethereum. My role involved networking with Web 3 companies, attending blockchain events, and collaborating on impactful solutions. This experience enhanced my skills in modern web technologies and deepened my understanding of the evolving Web 3 space.
+
+## 📫 Get in Touch
+
+Feel free to reach out if you want to connect or discuss new opportunities:
+
+- **Email**: [mathewnewton1994@gmail.com](mailto:mathewnewton1994@gmail.com)
+- **LinkedIn**: [Mathew Newton](https://www.linkedin.com/in/mathew-newton1)
+
+---
+
+Thank you for visiting my profile! 😊
