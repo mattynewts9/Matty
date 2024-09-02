@@ -7,6 +7,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxrkZYHDAxk2Smzb4Ky-BPHCXEVSsgMxAaiQZH0fUxcpenYXYLirl4KPMX_RUb39H4Q&usqp=CAU" height="40" alt="Le Wagon logo" style="border-radius: 60%;"/>
   </div>
 </div>
+<br>
   </p>
   <p align="left" style="color: #555; line-height: 1.6;">
     My recent experiences include volunteering with <a href="https://www.orbiter.finance" target="_blank" style="text-decoration: none; color: #007bff;">Orbiter Finance</a> in the Web 3 space, where I networked with industry leaders, attended blockchain events, and collaborated on innovative projects. I have a growing skill set in JavaScript, Ruby on Rails, HTML5, CSS3, Vue.js, and PostgreSQL. I'm constantly learning and adapting to new technologies to create impactful solutions. Feel free to explore my repositories and connect with me!
