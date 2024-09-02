@@ -21,8 +21,8 @@ I recently contributed to **Orbiter Finance**, a decentralized Layer 2 bridge fo
 
 Feel free to reach out if you want to connect or discuss new opportunities:
 
-- **Email**: [![Email](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:mathewnewton1994@gmail.com)
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mathew-newton1)
+[![Email](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:mathewnewton1994@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mathew-newton1)
 
 ---
 
